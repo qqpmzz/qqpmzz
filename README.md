@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+qqpmzz;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!" alt="Typing SVG" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=3000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+qqpmzz+👋;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!;Passionate+Developer+💻;Always+Learning+New+Things+📚&repeat=true&typeSpeed=80&deleteSpeed=30" alt="Typing Animation" />
 
 </div>
 
-<br><br>
+`<br><br>`
 
 ## Portfolio
 
@@ -12,12 +14,7 @@
 <img src="https://img.shields.io/badge/Visit_My_Website-qqpmzz.github.io-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a1a" alt="My Website" />
 </a>
 
-**Featured Projects:**
-- Personal portfolio website with modern design
-- Project showcase and technical blog
-- Interactive demos and code samples
-
-<br><br>
+`<br><br>`
 
 ## GitHub Profile
 
@@ -25,12 +22,17 @@
 <img src="https://img.shields.io/badge/GitHub_Profile-qqpmzz-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub Profile" />
 </a>
 
-**Quick Links:**
-- 👤 [Profile Overview](https://github.com/qqpmzz)
-- ⭐ [Starred Repositories](https://github.com/qqpmzz?tab=stars)
-- 👥 [Following](https://github.com/qqpmzz?tab=following)
+<a href="https://github.com/qqpmzz" target="_blank">
+<img src="https://img.shields.io/badge/Profile_Overview-2E8B57?style=flat-square&logoColor=white" alt="Profile Overview" />
+</a>
+<a href="https://github.com/qqpmzz?tab=stars" target="_blank">
+<img src="https://img.shields.io/badge/Starred_Repos-FFD700?style=flat-square&logoColor=white" alt="Starred Repositories" />
+</a>
+<a href="https://github.com/qqpmzz?tab=following" target="_blank">
+<img src="https://img.shields.io/badge/Following-6A5ACD?style=flat-square&logoColor=white" alt="Following" />
+</a>
 
-<br><br>
+`<br><br>`
 
 ## Repositories
 
@@ -38,12 +40,7 @@
 <img src="https://img.shields.io/badge/All_Repositories-Browse_My_Code-45B7D1?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a" alt="All Repositories" />
 </a>
 
-**Current Projects:**
-- 📄 [qqpmzz](https://github.com/qqpmzz/qqpmzz) - Special profile repository
-- 🌐 Portfolio website source code
-- 💻 Various coding experiments and learning projects
-
-<br><br>
+`<br><br>`
 
 ## GitHub Statistics
 
@@ -52,7 +49,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqpmzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
-<br><br>
+`<br><br>`
 
 <div align="center">
 
