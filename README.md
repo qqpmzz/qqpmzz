@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🌐 내 깃페이지 방문하기
-[![Website](https://img.shields.io/badge/Website-qqpmzz.github.io-blue?style=for-the-badge&logo=github&logoColor=white)](https://qqpmzz.github.io/qqpmzz/)
+[![Website](https://img.shields.io/badge/Website-qqpmzz.github.io-blue?style=for-the-badge&logo=github&logoColor=white)](https://qqpmzz.github.io/)
 
 **👆 위 버튼을 클릭하면 내 개인 웹사이트로 이동할 수 있습니다!**
 
@@ -23,7 +23,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qqpmzz&layout=compact&theme=radical)
 
 ### 🔗 Connect with me
-- 🌐 [My Website](https://qqpmzz.github.io/qqpmzz/) - 개인 포트폴리오 사이트
+- 🌐 [My Website](https://qqpmzz.github.io/) - 개인 포트폴리오 사이트
 - 💼 [GitHub Profile](https://github.com/qqpmzz) - 내 코드 저장소들
 
 ---
