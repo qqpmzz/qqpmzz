@@ -1,9 +1,5 @@
 <div align="center">
 
-<br><br>
-
-# Welcome to my Digital Space
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+qqpmzz;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!" alt="Typing SVG" />
 
 </div>
@@ -22,8 +18,7 @@
 
 <a href="https://github.com/qqpmzz" target="_blank">
 <img src="https://img.shields.io/badge/GitHub_Profile-qqpmzz-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub Profile" />
-</a>
-
+</a> 
 ![Profile Views](https://komarev.com/ghpvc/?username=qqpmzz&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br><br>
