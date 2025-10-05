@@ -1,5 +1,7 @@
 <div align="center">
 
+<br>
+
 # ✨ Welcome to my Digital Space ✨
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+qqpmzz+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!" alt="Typing SVG" />
@@ -7,6 +9,8 @@
 </div>
 
 ---
+
+<div align="center">
 
 ## 🌐 **내 깃페이지**
 ### ✨ 개인 포트폴리오 & 프로젝트 모음
@@ -17,7 +21,11 @@
 
 *🎨 나만의 디지털 공간에서 더 많은 이야기를 만나보세요!*
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 👤 **내 프로필 화면**
 ### � GitHub에서의 나의 모든 활동
@@ -28,7 +36,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=qqpmzz&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📚 **내 리포지토리 목록들**
 ### 🔥 모든 프로젝트와 코드 컬렉션
@@ -39,14 +51,22 @@
 
 *💻 창의적인 아이디어와 코드가 만나는 곳*
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 📊 GitHub Stats & Most Used Languages
 
-<p align="left">
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qqpmzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqpmzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
 </p>
+
+</div>
+
+---
 
 <div align="center">
 
