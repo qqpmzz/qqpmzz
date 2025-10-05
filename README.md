@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+qqpmzz;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!" alt="Typing SVG" />
 
+</div>
+
 <br><br>
 
 ## Portfolio
@@ -34,20 +36,16 @@
 
 <br><br>
 
-</div>
-
-<div align="center">
-
 ## GitHub Statistics
 
-<p align="center">
+<p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qqpmzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqpmzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=qqpmzz&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=FF6B6B&fire=FF6B6B&currStreakLabel=C9D1D9)
-
 <br><br>
+
+<div align="center">
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
