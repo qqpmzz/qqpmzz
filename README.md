@@ -30,21 +30,9 @@
 
 <br><br>
 
-## GitHub Statistics
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qqpmzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqpmzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
-</p>
-
-<br><br>
 
 <div align="center">
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
-
-<!--
-**qqpmzz/qqpmzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
