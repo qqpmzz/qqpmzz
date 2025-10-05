@@ -20,16 +20,6 @@
 <img src="https://img.shields.io/badge/GitHub_Profile-qqpmzz-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub Profile" />
 </a>
 
-<a href="https://github.com/qqpmzz" target="_blank">
-<img src="https://img.shields.io/badge/👤_Profile-2E8B57?style=for-the-badge&logoColor=white" alt="Profile Overview" />
-</a>
-<a href="https://github.com/qqpmzz?tab=stars" target="_blank">
-<img src="https://img.shields.io/badge/⭐_Stars-FFD700?style=for-the-badge&logoColor=white" alt="Starred Repositories" />
-</a>
-<a href="https://github.com/qqpmzz?tab=following" target="_blank">
-<img src="https://img.shields.io/badge/👥_Following-6A5ACD?style=for-the-badge&logoColor=white" alt="Following" />
-</a>
-
 <br><br>
 
 ## Repositories
