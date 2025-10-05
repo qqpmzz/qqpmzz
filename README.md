@@ -8,8 +8,6 @@
 
 ---
 
-<div align="center">
-
 ## 🌐 **내 깃페이지**
 ### ✨ 개인 포트폴리오 & 프로젝트 모음
 
@@ -19,11 +17,7 @@
 
 *🎨 나만의 디지털 공간에서 더 많은 이야기를 만나보세요!*
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 👤 **내 프로필 화면**
 ### � GitHub에서의 나의 모든 활동
@@ -34,11 +28,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=qqpmzz&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📚 **내 리포지토리 목록들**
 ### 🔥 모든 프로젝트와 코드 컬렉션
@@ -49,12 +39,21 @@
 
 *💻 창의적인 아이디어와 코드가 만나는 곳*
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qqpmzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FF6B6B&text_color=C9D1D9)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qqpmzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9)
+### 📊 GitHub Stats & Most Used Languages
 
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qqpmzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FF6B6B&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqpmzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+<div align="center">
+
+### Current Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=qqpmzz&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=FF6B6B&fire=FF6B6B&currStreakLabel=C9D1D9)
+
+</div>
 
 </div>
 
