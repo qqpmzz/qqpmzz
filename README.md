@@ -4,15 +4,11 @@
 
 </div>
 
-<br><br>
-
 ## Portfolio
 
 <a href="https://qqpmzz.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/Visit_My_Website-qqpmzz.github.io-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a1a" alt="My Website" />
 </a>
-
-<br><br>
 
 ## GitHub Profile
 
@@ -20,16 +16,11 @@
 <img src="https://img.shields.io/badge/GitHub_Profile-qqpmzz-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub Profile" />
 </a>
 
-<br><br>
-
 ## Repositories
 
 <a href="https://github.com/qqpmzz?tab=repositories" target="_blank">
 <img src="https://img.shields.io/badge/All_Repositories-Browse_My_Code-45B7D1?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a" alt="All Repositories" />
 </a>
-
-<br><br>
-
 
 <div align="center">
 
