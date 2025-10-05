@@ -12,14 +12,23 @@
 <img src="https://img.shields.io/badge/Visit_My_Website-qqpmzz.github.io-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a1a" alt="My Website" />
 </a>
 
+**Featured Projects:**
+- Personal portfolio website with modern design
+- Project showcase and technical blog
+- Interactive demos and code samples
+
 <br><br>
 
 ## GitHub Profile
 
 <a href="https://github.com/qqpmzz" target="_blank">
 <img src="https://img.shields.io/badge/GitHub_Profile-qqpmzz-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub Profile" />
-</a> 
-![Profile Views](https://komarev.com/ghpvc/?username=qqpmzz&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+</a>
+
+**Quick Links:**
+- 👤 [Profile Overview](https://github.com/qqpmzz)
+- ⭐ [Starred Repositories](https://github.com/qqpmzz?tab=stars)
+- 👥 [Following](https://github.com/qqpmzz?tab=following)
 
 <br><br>
 
@@ -28,6 +37,11 @@
 <a href="https://github.com/qqpmzz?tab=repositories" target="_blank">
 <img src="https://img.shields.io/badge/All_Repositories-Browse_My_Code-45B7D1?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a" alt="All Repositories" />
 </a>
+
+**Current Projects:**
+- 📄 [qqpmzz](https://github.com/qqpmzz/qqpmzz) - Special profile repository
+- 🌐 Portfolio website source code
+- 💻 Various coding experiments and learning projects
 
 <br><br>
 
