@@ -21,13 +21,13 @@
 </a>
 
 <a href="https://github.com/qqpmzz" target="_blank">
-<img src="https://img.shields.io/badge/Profile_Overview-2E8B57?style=flat-square&logoColor=white" alt="Profile Overview" />
+<img src="https://img.shields.io/badge/👤_Profile-2E8B57?style=for-the-badge&logoColor=white" alt="Profile Overview" />
 </a>
 <a href="https://github.com/qqpmzz?tab=stars" target="_blank">
-<img src="https://img.shields.io/badge/Starred_Repos-FFD700?style=flat-square&logoColor=white" alt="Starred Repositories" />
+<img src="https://img.shields.io/badge/⭐_Stars-FFD700?style=for-the-badge&logoColor=white" alt="Starred Repositories" />
 </a>
 <a href="https://github.com/qqpmzz?tab=following" target="_blank">
-<img src="https://img.shields.io/badge/Following-6A5ACD?style=flat-square&logoColor=white" alt="Following" />
+<img src="https://img.shields.io/badge/👥_Following-6A5ACD?style=for-the-badge&logoColor=white" alt="Following" />
 </a>
 
 <br><br>
