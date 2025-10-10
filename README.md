@@ -22,6 +22,15 @@
 <img src="https://img.shields.io/badge/All_Repositories-Browse_My_Code-45B7D1?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a" alt="All Repositories" />
 </a>
 
+**My Projects:**
+- [qqpmzz](https://github.com/qqpmzz/qqpmzz) - Special profile repository with GitHub README
+- [qqpmzz.github.io](https://github.com/qqpmzz/qqpmzz.github.io) - Personal portfolio website
+- [INDI_INHA](https://github.com/qqpmzz/INDI_INHA) - INDI INHA project
+- [SoftwareEngineering](https://github.com/qqpmzz/SoftwareEngineering) - Software Engineering coursework
+- [Unity_Tutorials](https://github.com/qqpmzz/Unity_Tutorials) - Unity game development tutorials
+
+<br><br>
+
 <div align="center">
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
